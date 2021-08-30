@@ -1,0 +1,28 @@
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.exe
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.deps.json
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.runtimeconfig.json
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.runtimeconfig.dev.json
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.dll
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.pdb
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.csproj.AssemblyReference.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.AssemblyInfoInputs.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.AssemblyInfo.cs
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.dll
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.pdb
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Primer trabajo\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.genruntimeconfig.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.csproj.AssemblyReference.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.AssemblyInfoInputs.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.AssemblyInfo.cs
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.dll
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.pdb
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.exe
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.deps.json
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.runtimeconfig.json
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.runtimeconfig.dev.json
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.dll
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\bin\Debug\netcoreapp3.1\PrimerTrabajo.pdb
+C:\Users\DIEGO-PC\Documents\DIEGO_UNIV\6to_Semestre_2-2021\Tecnologias Web\Proyectos\PrimerTrabajo\PrimerTrabajo\obj\Debug\netcoreapp3.1\PrimerTrabajo.genruntimeconfig.cache
