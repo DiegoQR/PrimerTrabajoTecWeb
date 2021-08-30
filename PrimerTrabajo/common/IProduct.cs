@@ -9,8 +9,6 @@ namespace GeneralClasses
         int Id { get; set; }
         string Title { get; set; }
         TimeSpan Duration { get; set; }
-        DateTime UploadDate { get; set; }
-        int Reproductions { get; set; }
         string AccessLink { get; set; }
 
         void showHimself();
