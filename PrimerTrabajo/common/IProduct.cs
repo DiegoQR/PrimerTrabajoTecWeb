@@ -8,9 +8,8 @@ namespace GeneralClasses
     {
         int Id { get; set; }
         string Title { get; set; }
-        TimeSpan Duration { get; set; }
         string AccessLink { get; set; }
 
-        void showHimself();
+        void ReproduceMedia();
     }
 }

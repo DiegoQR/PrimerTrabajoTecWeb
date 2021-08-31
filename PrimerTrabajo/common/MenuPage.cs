@@ -7,9 +7,9 @@ namespace GeneralClasses
 {
     public class MenuPage
     {
-        private MenuPage PreviousMenu;
-        private List<MenuPage> NextMenus;
-        private string NameMenuOption;
+        protected MenuPage PreviousMenu;
+        protected List<MenuPage> NextMenus;
+        protected string NameMenuOption;
 
         public MenuPage(string nameMenuOption, MenuPage previousMenu)
         {
@@ -25,14 +25,14 @@ namespace GeneralClasses
 
         //Interaction Methods
 
-        private void DisplayTitle()
+        protected void DisplayTitle()
         {
             Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine(this.NameMenuOption);
             Console.BackgroundColor = ConsoleColor.Black;
         }
 
-        private void DisplayOptions()
+        public virtual void DisplayOptions()
         {
             this.DisplayTitle();
             int i = 1;
@@ -45,7 +45,7 @@ namespace GeneralClasses
 
         }
 
-        private void DisplayBadSelectionMessage(string message)
+        protected void DisplayBadSelectionMessage(string message)
         {
             Console.BackgroundColor = ConsoleColor.DarkRed;
             Console.WriteLine(message);
@@ -53,7 +53,7 @@ namespace GeneralClasses
             Console.BackgroundColor = ConsoleColor.Black;
         }
 
-        public void EnterMenu()
+        public virtual void EnterMenu()
         {
             bool isValid;
             int validInput;
@@ -72,7 +72,7 @@ namespace GeneralClasses
             if (menuSelected != null) { menuSelected.EnterMenu(); }
         }
 
-        private bool ValidateInput(string input, out int validatedInput)
+        protected bool ValidateInput(string input, out int validatedInput)
         {
             int numbInput;
             bool isNumber = Int32.TryParse(input, out numbInput);
@@ -81,7 +81,7 @@ namespace GeneralClasses
             return isNumber && isInRange;
         }
 
-        private MenuPage RedirectMenu(int optionSelected)
+        protected virtual MenuPage RedirectMenu(int optionSelected)
         {
             MenuPage menuSelected;
             if (optionSelected == 0)

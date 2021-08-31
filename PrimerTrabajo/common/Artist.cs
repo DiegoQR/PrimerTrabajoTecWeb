@@ -8,11 +8,16 @@ namespace GeneralClasses
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public List<IProduct> Products;
 
-        public Artist(int id, string name)
+        public Artist()
         {
-            this.Id = id;
-            this.Name = name;
+            Products = new List<IProduct>();
+        }
+        
+        public void AddProduct(IProduct product)
+        {
+            Products.Add(product);
         }
     }
 }
