@@ -9,6 +9,7 @@ namespace GeneralClasses
         int Id { get; set; }
         string Title { get; set; }
         string AccessLink { get; set; }
+        WebController WebAccess { get; set; }
 
         void ReproduceMedia();
     }

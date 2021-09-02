@@ -42,6 +42,16 @@ namespace PrimerTrabajo
             testArtist[6].AddProduct(new Song { Id = 4, Title = "Bad ", AccessLink = "https://youtu.be/dsUXAEzaC3Q" });
             testArtist.Add(new Artist() { Id = 8, Name = "Luis Miguel" });
             testArtist[7].AddProduct(new Song { Id = 1, Title = "Ahora te puedes marchar", AccessLink = "https://youtu.be/yG7MPEQm1-w" });
+            testArtist.Add(new Artist() { Id = 9, Name = "The Beatles" });
+            testArtist[8].AddProduct(new Song { Id = 1, Title = "Here Comes The Sun", AccessLink = "https://youtu.be/KQetemT1sWc" });
+            testArtist[8].AddProduct(new Song { Id = 2, Title = "Help!", AccessLink = "https://youtu.be/2Q_ZzBGPdqE" });
+            testArtist[8].AddProduct(new Song { Id = 3, Title = "Lucy In The Sky With Diamonds", AccessLink = "https://youtu.be/naoknj1ebqI" });
+            //Prueba Podcast
+            testArtist.Add(new Artist() { Id = 10, Name = "Neil deGrasse" });
+            testArtist[9].AddProduct(new Podcast { Id = 1, Title = "Neil deGrasse Tyson Explains Hot Potatoes", AccessLink = "https://youtu.be/8GiduQuIlG4" });
+            testArtist[9].AddProduct(new Podcast { Id = 2, Title = "Neil deGrasse Tyson Explains Burning Stuff", AccessLink = "https://youtu.be/nE9ep4WnsA4" });
+            testArtist[9].AddProduct(new Podcast { Id = 3, Title = "Neil deGrasse Tyson Explains the Sun", AccessLink = "https://youtu.be/apRVqNc4UhE" });
+
 
             return testArtist;
         }
@@ -66,16 +76,10 @@ namespace PrimerTrabajo
         {
 
             MenuPage principalMenu = new MenuPage("Principal", null);
-            MenuPage adminMenu = new MenuPage("Opciones de Administrador", principalMenu);
             //Modificar menu para que muestre todos los artistas automaticamente
             MenuPage artistMenu = new MenuPage("Artistas", principalMenu);
-            MenuPage newContentMenu = new MenuPage("Añadir nuevo contenido", adminMenu);
-            MenuPage newArtistMenu = new MenuPage("Añadir nuevo artista", adminMenu);
             CreateArtistMenu(ref artistMenu);
             principalMenu.AddNextMenu(artistMenu);
-            principalMenu.AddNextMenu(adminMenu);
-            adminMenu.AddNextMenu(newContentMenu);
-            adminMenu.AddNextMenu(newArtistMenu);
             principalMenu.EnterMenu();
         }
 

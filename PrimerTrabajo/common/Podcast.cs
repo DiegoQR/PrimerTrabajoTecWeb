@@ -1,30 +1,24 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Collections.Generic;
 using System.Text;
-using System.Runtime.InteropServices;
 
 namespace GeneralClasses
 {
-    public class Song : IProduct
+    public class Podcast : IProduct
     {
         public int Id { get; set; }
         public string Title { get; set; }
         public string AccessLink { get; set; }
         public WebController WebAccess { get; set; }
-        private const string Type = "Song";
-
-        //Interface Methods
+        private const string Type = "Podcast";
 
         public void ReproduceMedia()
         {
             WebAccess = new WebController { AccessURL = AccessLink };
-            Console.BackgroundColor = ConsoleColor.Blue;
-            Console.WriteLine("Reproduciendo...");
+            Console.BackgroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine("Reproduciendo Podcast...");
             WebAccess.OpenWebPage();
-            Console.BackgroundColor = ConsoleColor.Black;   
+            Console.BackgroundColor = ConsoleColor.Black;
         }
-
-        
     }
 }
